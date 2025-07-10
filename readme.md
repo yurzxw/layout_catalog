@@ -37,6 +37,7 @@ This is possible because [we use the Parcel library](https://en.parceljs.org/scs
 - [TEST REPORT LINK](https://yurzxw.github.io/layout_catalog/report/html_report/)
 
 ❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
+❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
 
 - [ ] All components follow BEM and use SCSS
 - [ ] Repeated sizes and special colors are put to variables
